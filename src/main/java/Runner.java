@@ -24,3 +24,4 @@ public class Runner {
     static void changeClassVar(String in){
         Class.global_var = in;
     }
+}
